@@ -1,6 +1,6 @@
 # EPL-Football-prediction
 
-Football or Soccer for our American friends is more than just a game. It is played by 250 million players in over 200 countries making it the most popular sport. Each of these countries has a domestic league of their own in which teams compete for being labelled the best football team of that country. Being the staunch football fan I am, I decided to investigate the most popular domestic league of the world ((English Premier League) for factors that can 
+Football or Soccer for our Ethiopian friends is more than just a game. It is played by 250 million players in over 200 countries making it the most popular sport. Each of these countries has a domestic league of their own in which teams compete for being labelled the best football team of that country. Being the staunch football fan I am, I decided to investigate the most popular domestic league of the world ((English Premier League) for factors that can 
 influence the outcome of any match.
 This was my first proper data analysis project and I'm not necessarily aiming to use the results obtained to make a model or a prediction system. This project just aims to satisfy my obsession with football as well as get my hands dirty working as a Data Analyst.
 
