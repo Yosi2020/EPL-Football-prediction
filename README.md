@@ -8,4 +8,4 @@ This was my first proper data analysis project and I'm not necessarily aiming to
 
 The data set was obtained through http://www.football-data.co.uk/data.php. The data sets have been attached as separate files in the repository. A file containing the description of the data set has also been attached. Some columns related to betting statistics are missing from the data but playing statistics are there.For this particular project, I decided to download data for the last 21 seasons of EPL starting from 2000-01 season to 2020-21 season.
 
-Finally i trying to improve my accuracy using deep learning as soon as possible
+Finally i trying to improve the accuracy of prediction using deep learning as soon as possible
